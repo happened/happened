@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-readme-stats.vercel.app/api?username=happened)
+
+<p align="center">
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=happened.happened" alt="visitor badge"/>       
+</p>
+
+</p>
